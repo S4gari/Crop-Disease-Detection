@@ -1,0 +1,10 @@
+tensorflow>=2.9.0
+opencv-python
+numpy
+matplotlib
+pillow
+scikit-learn
+keras
+jupyter
+notebook
+seaborn
